@@ -7,8 +7,7 @@ openCv
 and some others...
 
 
-
-
+It will Store the Details of the Vehicle like Frame of the vehicle , Time stamp and Speed in a seperate Xlsm sheet and saved the Frames of the vehicles in Exceed_speed_frames folder.
 
 
 
